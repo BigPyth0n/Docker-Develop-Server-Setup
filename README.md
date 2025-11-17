@@ -30,4 +30,4 @@
 > **هشدار امنیتی:** همیشه قبل از اجرای اسکریپت‌ها به‌صورت مستقیم از اینترنت، محتوای آن را بررسی کنید.
 
 ```bash
-sudo -E bash -c "$(curl -fsSL [https://raw.githubusercontent.com/BigPyth0n/Docker-Develop-Server-Setup/main/setup.sh](https://raw.githubusercontent.com/BigPyth0n/Docker-Develop-Server-Setup/main/setup.sh))"
+sudo -E bash -c "$(curl -fsSL https://raw.githubusercontent.com/BigPyth0n/Docker-Develop-Server-Setup/main/setup.sh)"
