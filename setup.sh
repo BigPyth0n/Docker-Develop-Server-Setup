@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Optimized KITZONE SERVER SETUP - Installing Docker, NPM, and Portainer
+# Optimized BigPython installation ==> Installing Docker, NPM, and Portainer
 set -e
 set -o pipefail
 # Trap to catch errors and print the line number
